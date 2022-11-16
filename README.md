@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there  :pencil:
 
-<!--
-**vitorgouvea91/vitorgouvea91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou Vitor Gouvea , sou programador de front-end e atualmente estou aprendendo e criando com:
+<br>
+<br>
+- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+- <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+ <br>
 
-Here are some ideas to get you started:
+  <b>Vou iniciar o proximo modulo:</b>
+  <br>
+  <br>
+ 
+ - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+ - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+ <br>
+ <br>
+ 
+![Vitor Gouvea stats](https://github-readme-stats.vercel.app/api?username=VitorGouvea91)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorGouvea91)](https://github.com/anuraghazra/github-readme-stats)
+ 
